@@ -40,4 +40,4 @@ const musician = {
     }
 }
 
-console.log(musician.albums)
+console.log(Object.values(musician.albums))
